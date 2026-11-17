@@ -1,3 +1,5 @@
+![Karthik Chitvel — Biomedical Engineering and Salesforce](assets/github-banner.svg)
+
 # Hi, I'm Karthik Chitvel 👋
 
 ### Biomedical Engineering Graduate | Salesforce Admin & Developer Intern
@@ -61,7 +63,12 @@ An academic classification framework combining **Convolutional Neural Networks (
 
 [View project documentation](projects/gallbladder-lymphoma-cnn-rvm/README.md)
 
-> Project descriptions reflect the work documented in my resume. I will add source code, screenshots, datasets, and numerical results only when they are available and appropriate to share.
+### 3. Salesforce Apex & SOQL Practice
+A learning repository with an Apex Contact follow-up task service, illustrative unit tests, and SOQL query examples.
+
+[Explore Apex and SOQL practice files](salesforce-practice/README.md)
+
+> Project descriptions reflect the work documented in my resume. The Apex/SOQL folder is a separate learning exercise. I will add original project source code, screenshots, datasets, and numerical results only when they are available and appropriate to share.
 
 ## Education
 
@@ -84,7 +91,7 @@ CGPA: 7.38
 
 - **LinkedIn:** [karthikchitvel](https://www.linkedin.com/in/karthikchitvel/)
 - **Email:** [chitvelkarthik@gmail.com](mailto:chitvelkarthik@gmail.com)
-- **Portfolio:** [karthikchitvel-sketch.github.io portfolio](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/)
+- **Portfolio:** [Open portfolio website](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/)
 
 ---
 
