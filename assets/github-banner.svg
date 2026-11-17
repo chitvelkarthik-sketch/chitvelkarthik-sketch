@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Karthik Chitvel — Biomedical Engineering and Salesforce</title>
+  <desc id="desc">A professional navy and teal banner highlighting Salesforce administration, CRM automation, and healthcare technology.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b35"/>
+      <stop offset="1" stop-color="#173d55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d6c2"/>
+      <stop offset="1" stop-color="#77b9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="500" rx="28" fill="url(#bg)"/>
+  <circle cx="1290" cy="90" r="230" fill="#55d6c2" opacity=".08"/>
+  <circle cx="1390" cy="430" r="280" fill="#77b9ff" opacity=".08"/>
+  <path d="M0 390 C330 310 470 500 820 390 S1240 300 1500 360" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".5"/>
+  <g fill="none" stroke="#70d9ce" stroke-width="3" opacity=".7">
+    <circle cx="1210" cy="210" r="62"/><circle cx="1210" cy="210" r="34"/>
+    <path d="M1210 120v-35m0 250v-35m90-90h35m-250 0h35m154-64 25-25m-178 178 25-25m178 0 25 25m-178-178 25 25"/>
+    <path d="M1325 95h70v70h-70zM1359 112v36m-18-18h36" stroke-linecap="round"/>
+  </g>
+  <text x="100" y="180" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">Karthik Chitvel</text>
+  <text x="104" y="245" fill="#b9d4e5" font-family="Arial, Helvetica, sans-serif" font-size="30">Biomedical Engineering Graduate</text>
+  <text x="104" y="295" fill="#b9d4e5" font-family="Arial, Helvetica, sans-serif" font-size="27">Salesforce Admin &amp; Developer Intern</text>
+  <rect x="104" y="345" width="490" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="104" y="405" fill="#70d9ce" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">CRM  •  AUTOMATION  •  HEALTHCARE TECHNOLOGY</text>
+</svg>
