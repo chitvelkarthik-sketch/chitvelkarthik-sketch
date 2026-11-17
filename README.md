@@ -68,7 +68,16 @@ A learning repository with an Apex Contact follow-up task service, illustrative 
 
 [Explore Apex and SOQL practice files](salesforce-practice/README.md)
 
-> Project descriptions reflect the work documented in my resume. The Apex/SOQL folder is a separate learning exercise. I will add original project source code, screenshots, datasets, and numerical results only when they are available and appropriate to share.
+### 4. Smart Remote Monitoring Module for Paralysis Detection Using IoT Applications
+A team B.Tech Biomedical Engineering major project (May 2026) exploring multi-sensor remote patient monitoring with Arduino Nano, ESP8266 Wi-Fi, ThingSpeak cloud visualization, and SIM800L GSM caregiver alerts.
+
+- Monitors movement, ECG, pulse / heart rate, body temperature, and environmental conditions.
+- Uses threshold-based checks and dual communication paths (cloud data + SMS alerts).
+- Includes an architecture diagram, hardware overview, threshold examples, and report-reported prototype observations.
+
+[View project documentation and architecture](projects/smart-remote-paralysis-monitoring-iot/README.md)
+
+> Project descriptions reflect my resume and submitted academic reports. The Apex/SOQL folder is a separate learning exercise. The IoT project was completed as a team. Reported prototype measurements are not independent clinical validation. Original source code, screenshots, datasets, and numerical results will be added only when available and appropriate to share.
 
 ## Education
 
