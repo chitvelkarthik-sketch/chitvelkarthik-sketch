@@ -47,7 +47,7 @@ Vel Tech Rangarajan Dr. Sagunthala R&D Institute, Chennai | 2022–2026 | CGPA: 
 ## Connect
 - **Email:** [chitvelkarthik@gmail.com](mailto:chitvelkarthik@gmail.com)
 - **LinkedIn:** [linkedin.com/in/karthikchitvel](https://www.linkedin.com/in/karthikchitvel/)
-- **Portfolio:** [Open portfolio website](https://chitvelkarthik-sketch.github.io/)
+- **Portfolio:** [Open portfolio website](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/)
 
 ---
 *Continuously learning and building practical projects.*
