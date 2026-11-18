@@ -14,6 +14,8 @@ The project explores how affordable embedded hardware and IoT communication can 
 
 ![Three-tier IoT architecture](architecture.svg)
 
+**[View the actual hardware setup photograph](hardware-photo.html)** — extracted from Figure 3.14 (PDF page 35) of the submitted project report.
+
 ## Hardware described in the report
 
 | Component | Role in the prototype |
