@@ -6,7 +6,7 @@
 
 I’m a Biomedical Engineering graduate building practical skills in **Salesforce administration, CRM automation, data management, and healthcare technology**. I enjoy translating real-world requirements into organized data models and automated workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/)\n[![Resume](https://img.shields.io/badge/Resume-Download-5B5BD6?style=for-the-badge)](https://chitvelkarthik-sketch.github.io/chitvelkarthik-sketch/resume.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikchitvel/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chitvelkarthik@gmail.com)
 
@@ -24,11 +24,11 @@ I’m a Biomedical Engineering graduate building practical skills in **Salesforc
 
 | Area | Skills |
 |---|---|
-| Salesforce Administration | Custom Objects and Fields, Relationships, Record Types, Page Layouts, Lightning App Builder, Validation Rules |
+| Salesforce Administration | Custom Objects and Fields, Relationships, Record Types, Page Layouts, Lightning App Builder, Validation Rules, Email Templates |
 | Automation | Screen Flows, Record-Triggered Flows, Approval Processes |
 | Security | OWD, Role Hierarchy, Permission Sets, Sharing Rules |
 | Data Management | Data Import Wizard, Data Loader, Data Export, Duplicate Rules |
-| Programming & Tools | SQL, Python (Basics), Microsoft Office Suite |
+| Programming & Tools | SQL, MySQL, Python (Basics), Microsoft Office Suite |
 | Currently learning | Apex, Apex Triggers, SOQL, SOSL |
 
 ## Experience
